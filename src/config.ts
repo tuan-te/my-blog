@@ -1,4 +1,4 @@
-import type {
+﻿import type {
 	ExpressiveCodeConfig,
 	LicenseConfig,
 	NavBarConfig,
@@ -54,20 +54,15 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	name: "Tuấn Tẹ",
+	bio: "Để tôi kể cho bạn nghe nơi nào lạnh lẽo nhất.",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "Facebook",
+			icon: "fa6-brands:facebook", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://twitter.com",
-		},
-		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
 		},
 		{
 			name: "GitHub",
