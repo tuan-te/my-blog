@@ -8,6 +8,9 @@ module.exports = {
       fontFamily: {
         sans: ["Roboto", "sans-serif", ...defaultTheme.fontFamily.sans],
       },
+      color: {
+          'leaf-green': '#5F8B4C',
+      },
     },
   },
   plugins: [require("@tailwindcss/typography")],
