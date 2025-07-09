@@ -9,11 +9,9 @@ draft: false
 ## Mình nhớ biển. Cho đến ngày hôm nay mình vẫn còn nhớ như in cái cảm giác ấy… 
 
 
-::github{repo="Fabrizz/MMM-OnSpotify"}
 
-Create a GitHub repository card with the code `::github{repo="<owner>/<repo>"}`.
 
-```
-::github{repo="saicaca/fuwari"}
-```
+Create a GitHub repository card with the code 
+
+
 
