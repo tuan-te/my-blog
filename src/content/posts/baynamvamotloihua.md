@@ -21,8 +21,6 @@ Sáng hôm sau, lúc mặt trời bắt đầu mọc lên và bạn bè vẫn c�
 
 Nghe cứ buồn cười làm sao nhỉ, mình cá là cô chẳng hiểu mình đang nói gì đâu, rồi cô chỉ cười và chúc mình đi vui vẻ.
 
-![Bình minh ngoài biển](/images/Sunrise.jpg)
-
 Ra tới biển, mình đã tìm một nơi vắng vẻ nhất và ngồi lại, được nhìn lại biển một lần nữa. Cảm xúc của mình lúc đó rất khó tả, mình cảm thấy biển vừa quen, vừa lạ. Cái ánh sáng bình minh ấy, tiếng sóng ấy, làn gió ấy đều vẫn như thế, vẫn không thay đổi gì so với trước đây. Mình nhận ra rằng chỉ có mình là đã khác xưa còn mọi thứ ở đây thì vẫn như thế.
 
 Bỗng nhiên mình cảm thấy nghẹn lòng. Giữa một khung cảnh yên bình, vắng lặng đến như thế vô tình làm cho mình hồi tưởng lại biết bao chuyện cũ, những điều không mấy vui vẻ, những ký ức đã lấy đi nhiều nước mắt của mình. Nên mỗi khi nhớ lại, mình đều khóc, khóc rất nhiều, và lần này cũng không ngoại lệ. Mình lại khóc. Một lần nữa, mình lại yếu đuối giữa biển khơi rộng lớn.
