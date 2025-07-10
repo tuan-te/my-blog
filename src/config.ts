@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avt.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Tuấn Tẹ",
-	bio: "Hi! Mình là Tuấn Tẹ.",
+	bio: "Giữa nhịp sống vội vã, tôi muốn viết để giữ lại những điều mong manh. Mỗi dòng chữ ở đây là một mảnh tâm hồn, là lời thì thầm của những điều chưa kịp để nói ra, là ký ức đã từng rất rõ nhưng rồi lại mờ nhạt theo năm tháng. Tôi viết không phải để được nhớ đến, mà là để không quên đi chính bản thân mình.",
 	links: [
 		{
 			name: "Facebook",
