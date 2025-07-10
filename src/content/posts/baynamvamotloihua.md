@@ -5,7 +5,6 @@ description: 'Một buổi sáng trở lại biển sau bảy năm, mình viết
 image: '/images/Sunrise.jpg'
 draft: false 
 ---
-![Bình minh ngoài biển](/images/Sunrise.jpg)
 
 ## Mình nhớ biển. Cho đến ngày hôm nay mình vẫn còn nhớ như in cái cảm giác ấy…
 
@@ -21,6 +20,8 @@ Sáng hôm sau, lúc mặt trời bắt đầu mọc lên và bạn bè vẫn c�
 > “Dạ, con đi thực hiện lời hứa của con ạ!”
 
 Nghe cứ buồn cười làm sao nhỉ, mình cá là cô chẳng hiểu mình đang nói gì đâu, rồi cô chỉ cười và chúc mình đi vui vẻ.
+
+![Bình minh ngoài biển](/images/Sunrise.jpg)
 
 Ra tới biển, mình đã tìm một nơi vắng vẻ nhất và ngồi lại, được nhìn lại biển một lần nữa. Cảm xúc của mình lúc đó rất khó tả, mình cảm thấy biển vừa quen, vừa lạ. Cái ánh sáng bình minh ấy, tiếng sóng ấy, làn gió ấy đều vẫn như thế, vẫn không thay đổi gì so với trước đây. Mình nhận ra rằng chỉ có mình là đã khác xưa còn mọi thứ ở đây thì vẫn như thế.
 
